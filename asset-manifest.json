@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/TRELLO/static/js/main.2b9b03e0.js",
+    "main.js": "/TRELLO/static/js/main.a5ed9f96.js",
     "index.html": "/TRELLO/index.html",
-    "main.2b9b03e0.js.map": "/TRELLO/static/js/main.2b9b03e0.js.map"
+    "main.a5ed9f96.js.map": "/TRELLO/static/js/main.a5ed9f96.js.map"
   },
   "entrypoints": [
-    "static/js/main.2b9b03e0.js"
+    "static/js/main.a5ed9f96.js"
   ]
 }
